@@ -1,2 +1,2 @@
-# beyond-coding
-Essential Skills for Software Engineers
+# Beyond Coding
+## Essential Skills for Software Engineers
